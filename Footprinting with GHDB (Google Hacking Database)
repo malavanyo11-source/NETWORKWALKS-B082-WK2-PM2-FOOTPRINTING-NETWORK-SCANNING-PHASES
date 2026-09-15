@@ -1,0 +1,12 @@
+Task 1 — Exposed Security Cameras
+Using Google dorks such as:
+intitle:"webcamXP" inurl:8080  
+I identified 11 publicly accessible webcam feeds with no authentication.
+
+Task 2 — Open Mathematics PDF Directories
+Using dorks such as:
+intitle:index.of "parent directory" mathematics pdf  
+I found 11 open directories hosting downloadable mathematics PDFs.
+
+Why this matters:  
+GHDB reveals misconfigured systems, exposed directories, and sensitive content indexed by search engines.
