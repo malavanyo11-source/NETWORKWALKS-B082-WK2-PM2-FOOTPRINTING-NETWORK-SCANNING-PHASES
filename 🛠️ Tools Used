@@ -1,0 +1,12 @@
+Tool	Purpose
+WHOIS	Domain registration lookup
+nslookup	DNS resolution
+dnsrecon	DNS enumeration
+whatweb	Web technology fingerprinting
+curl -I	HTTP header inspection
+wafw00f	WAF detection
+GHDB (Google Dorks)	OSINT reconnaissance
+Maltego	Graph-based OSINT analysis
+theHarvester	Email & subdomain enumeration
+Zenmap (Nmap GUI)	Network scanning & host discovery
+Kali Linux / Windows	Operating systems used for testing
