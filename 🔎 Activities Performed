@@ -1,0 +1,10 @@
+Footprinting with WHOIS, DNS & Web Tools
+I performed reconnaissance on networkwalks.com using six Kali Linux tools:
+WHOIS → Registrar, name servers, domain dates
+WhatWeb → WordPress 7.0.4, WP Download Manager 3.3.58
+nslookup → IP resolved to 192.232.216.135
+curl -I → HTTP headers, caching, cookies, /wp-json/ endpoint
+wafw00f → Detected ModSecurity (SpiderLabs)
+dnsrecon → NS, MX, SPF/TXT, SRV records
+Why this matters:  
+Footprinting reveals the attack surface, technologies, DNS structure, and potential misconfigurations.
