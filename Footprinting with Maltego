@@ -1,0 +1,6 @@
+Using Maltego transforms, I mapped:
+Domain → IP → Name servers → Mail servers
+WHOIS ownership details
+Publicly exposed email addresses
+Connected domains & subdomains
+Maltego provided a visual graph of relationships between infrastructure components.
